@@ -24,4 +24,6 @@ section input {
     transition: all 400ms;
 }
 
-#playBtn
+#playBtn: hover{
+    background: lightgoldenrodyellow;
+}
